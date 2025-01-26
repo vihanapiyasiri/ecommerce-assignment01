@@ -113,7 +113,7 @@
         <div class="d-flex justify-content-between align-items-center">
             <!-- Left Section -->
             <div class="d-flex align-items-center">
-                <img src="images/logo.png" alt="Model Car Store Logo">
+                <img src="images/logo.png" alt="Model Car Store Logo" style="max-height: 50px;">
             </div>
 
             <!-- Right Section: Navigation -->
@@ -143,13 +143,13 @@
                 <a href="#" class="text-dark me-3"><i class="bi bi-heart"></i></a>
                 <a href="registration.jsp" class="text-dark me-3"><i class="bi bi-person"></i></a>
                 <a href="#" class="text-dark me-3"><i class="bi bi-cart"></i></a>
-                <a href="#" class="text-dark"><i class="bi bi-box-arrow-right"></i></a>
+                <a href="admin_dashboard.jsp" class="text-dark"><i class="bi bi-box-arrow-right"></i><a href="admin_dashboard.jsp">Admin Dashboard</a>
+                </a>
             </div>
         </div>
     </div>
 </header>
 
-<a href="admin_dashboard.jsp">Admin Dashboard</a>
 
 <!-- Hero Section -->
 <section class="hero-section d-flex align-items-center">

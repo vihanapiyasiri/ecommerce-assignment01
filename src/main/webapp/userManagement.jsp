@@ -70,11 +70,11 @@
                 <h2 class="text-white">User Hub</h2>
             </div>
             <nav class="nav flex-column">
-                <a class="nav-link active" href="#"><i class="fas fa-chart-line me-2"></i>Dashboard</a>
-                <a class="nav-link" href="#"><i class="fas fa-users me-2"></i>Users</a>
-                <a class="nav-link" href="#"><i class="fas fa-boxes me-2"></i>Products</a>
-                <a class="nav-link" href="#"><i class="fas fa-shopping-cart me-2"></i>Orders</a>
-                <a class="nav-link" href="#"><i class="fas fa-cog me-2"></i>Settings</a>
+                <a class="nav-link active" href="admin_dashboard.jsp"><i class="fas fa-chart-line me-2"></i>Dashboard</a>
+                <a class="nav-link" href="index.jsp"><i class="fas fa-cog me-2"></i>Home</a>
+                <a class="nav-link" href="orderManagement.jsp"><i class="fas fa-shopping-cart me-2"></i>Orders</a>
+                <a class="nav-link" href="userManagement.jsp"><i class="fas fa-users me-2"></i>Customers</a>
+                <a class="nav-link" href="productManagement.jsp"><i class="fas fa-boxes me-2"></i>Products</a>
             </nav>
         </div>
 
@@ -145,9 +145,9 @@
                                         </thead>
                                         <tbody>
                                         <tr>
-                                            <td>#1001</td>
-                                            <td>John Doe</td>
-                                            <td>john@example.com</td>
+                                            <td>1001</td>
+                                            <td>Vihana</td>
+                                            <td>vihanapiyasiri2003@.com</td>
                                             <td>Admin</td>
                                             <td>
                                                 <div class="btn-group">
